@@ -22,6 +22,4 @@ app.get("/", (req, res) => {
 app.use("/userRoute", userRouter);
 
 
-app.listen(process.env.PORT, () => {
-    console.log(`Server running on http://localhost:${process.env.PORT}`);
-});
+export default app;
