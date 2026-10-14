@@ -20,7 +20,7 @@ const UserBot = () => {
 
     
    try {
-      const response = await axios.post("http://webnexamernaichatbot.netlify.app/api/userRoute/userRout", {
+      const response = await axios.post("http://localhost:3000/userRoute/userRout", {
         text: submittedInput,
         
       });
