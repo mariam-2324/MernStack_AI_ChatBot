@@ -6,7 +6,7 @@ A full-stack web development AI assistant built using the **MERN Stack** (MongoD
 
 ## 📸 Visual Overview
 
-![WebNexa AI Chat Interface Placeholder]()
+![WebNexa AI Chat Interface Placeholder](fullStack(MERN)AI-ChatBot.png)
 *Figure 1: Cyberpunk/Futuristic AI Chatbot interface featuring glassmorphism cards, interactive glow effects, and live message histories.*
 
 ---
