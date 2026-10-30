@@ -20,7 +20,7 @@ const UserBot = () => {
 
     
    try {
-      const response = await axios.post("http://localhost:3000/userRoute/userRout", {
+      const response = await axios.post("https://mernstack-ai-chatbot.onrender.com", {
         text: submittedInput,
         
       });
