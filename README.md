@@ -345,3 +345,19 @@ npm install
 # Start Vite React server
 npm run dev
 ```
+
+## 🚀 Live Demo
+
+This full-stack AI chatbot (MERN) is successfully deployed on [**Render**](render.com).
+
+🔗 **Live App:** [https://mernstackaichatbot-frontend.onrender.com](https://mernstackaichatbot-frontend.onrender.com)
+
+🔗 **Backend API:** [https://mernstack-ai-chatbot.onrender.com](https://mernstack-ai-chatbot.onrender.com)
+
+### Deployment Details
+- **Frontend:** React (Vite), deployed as a Static Site on Render
+- **Backend:** Node.js and Express, deployed as a Web Service on Render
+- **Database:** MongoDB
+- **Auto-Deploy:** Enabled, so every push to the `main` branch on GitHub triggers a new deployment automatically
+
+> **Note:** The backend runs on Render's free tier, so the first request after a period of inactivity may take 30-60 seconds while the server wakes up.
